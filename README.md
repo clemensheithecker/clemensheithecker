@@ -6,7 +6,7 @@ Currently, I am gaining my first professional experience with web technologies a
 
 I also contributed to the Spotify Backstage **open-source community** by writing and publishing two plugins as npm packages:
 
-- [`@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines`](https://www.npmjs.com/package/@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines)` adds scaffolder actions to _build_, _run_, and _authorize_ Azure DevOps pipelines in Backstage.
+- [`@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines`](https://www.npmjs.com/package/@parfuemerie-douglas/scaffolder-backend-module-azure-pipelines) adds scaffolder actions to _build_, _run_, and _authorize_ Azure DevOps pipelines in Backstage.
 - [`@parfuemerie-douglas/scaffolder-backend-module-azure-repositories`](https://www.npmjs.com/package/@parfuemerie-douglas/scaffolder-backend-module-azure-repositories) adds scaffolder actions to _clone_ and _push to_ Azure DevOps remote repositories in Backstage.
 
 Next, I want to continue focusing on software engineering and web development. **I am looking for an exciting opportunity to put my software engineering skills to work.**
